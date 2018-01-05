@@ -1,0 +1,53 @@
+name: Testcat
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://www.marnixdecat.be'
+    label: Marnix' web
+  - type: external
+    url: 'http://www.pluto-ensemble.eu'
+    label: Pluto-ensemble
+github: true
+description: 'Music, Truth, life & death'
+cta:
+  bucket: null
+  version: null
+  domain: null
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: fa502acf-8c87-460a-8e5e-00773aa67d73
+    name: Lift it up
+    type: content
+  - type: external
+    name: Cats fly ?
+    url: 'https://thegrid.ai/volemus/'
+layout_spectrum: 0.07795972222084235
+color:
+  lightness: 0.7503241935127074
+  brandColors:
+    - '#111107'
+    - '#78B2FC'
+    - '#4062A1'
+    - '#B6E3FF'
+    - '#869740'
+  saturation: 0.3383477292509547
+  brandStrength: 0.5895483654589013
+  rhythmicContrast: 0.3501189789739391
+content_rating:
+  adult: false
+typography_spectrum: 0.7763302633813629
+opengraph: {}
+title: Pluto-academie
