@@ -8,7 +8,7 @@ purpose:
     url: 'http://www.pluto-ensemble.eu'
     label: Pluto-ensemble
 github: true
-description: 'Music, Truth, life & death'
+description: 'Music, Truth, Life & Death'
 cta:
   bucket: null
   version: null
@@ -50,4 +50,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.7763302633813629
 opengraph: {}
-title: Pluto-academie
+title: Pluto-Academie
