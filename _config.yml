@@ -23,7 +23,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: IDEEËNBOX / BOîTE à idées
+  - name: Ideeën-BOX / BOîTE à idées
     id: 7c844baa-a8f1-4a7e-96be-8e2a0317fe01
     type: content
   - name: Hoe staan de werken ?
