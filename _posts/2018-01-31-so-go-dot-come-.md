@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2018-01-31T10:00:02.577Z'
-datePublished: '2018-01-31T10:00:03.059Z'
+dateModified: '2018-01-31T10:02:06.409Z'
+datePublished: '2018-01-31T10:02:06.873Z'
 title: So GO! dot come…   ;-)
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-01-31-so-go-dot-come-.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-01-31T10:00:03.059Z'
-sourcePath: _posts/2018-01-31-so-go-dot-come-.md
+url: so-go-dot-come-/index.html
 _type: Blurb
 
 ---
