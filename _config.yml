@@ -1,5 +1,64 @@
+name: LR Bouwfonds G
+analytics: {}
+purpose:
+  - type: email
+    url: 'mailto:LRbouwfondsGent@gmail.com'
+    label: Ideeën-BOX / BOîTE à idées
+github: true
+description: 'LECTORIUM ROSICRUCIANUM    in Liefde en 1-heid,   en Amour et 1-ité'
+author: {}
+cta:
+  bucket: null
+  version: null
+  domain: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b145381f-f1d6-4923-bf07-840f324cd64c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b145381f-f1d6-4923-bf07-840f324cd64c.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: 7c844baa-a8f1-4a7e-96be-8e2a0317fe01
+    name: Ideeën-BOX / BOîTE à idées
+    type: content
+  - id: 29e5579b-983d-4561-957c-55646045d290
+    name: Hoe staan de werken / Comment vont les travaux ?
+    type: content
+  - id: fa502acf-8c87-460a-8e5e-00773aa67d73
+    name: Varia
+    type: content
 layout_spectrum: 0.07552349938264136
-typography_spectrum: 0.3357385994564041
 color:
   lightness: 0.8789691339872113
   brandColors:
@@ -13,65 +72,6 @@ color:
   rhythmicContrast: 0.9559188858924046
 content_rating:
   adult: false
-github: true
+typography_spectrum: 0.3357385994564041
 opengraph: {}
-analytics: {}
-author: {}
-name: Testcat
-cta:
-  bucket: null
-  version: null
-  domain: null
-navigation:
-  - name: Ideeën-BOX / BOîTE à idées
-    id: 7c844baa-a8f1-4a7e-96be-8e2a0317fe01
-    type: content
-  - name: Hoe staan de werken / Comment vont les travaux ?
-    id: 29e5579b-983d-4561-957c-55646045d290
-    type: content
-  - name: Varia
-    id: fa502acf-8c87-460a-8e5e-00773aa67d73
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 title: Bouwfonds GENT
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b145381f-f1d6-4923-bf07-840f324cd64c.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b145381f-f1d6-4923-bf07-840f324cd64c.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'LECTORIUM ROSICRUCIANUM    in Liefde en 1-heid,   en Amour et 1-ité'
-purpose:
-  - type: email
-    url: 'mailto:LRbouwfondsGent@gmail.com'
-    label: Ideeën-BOX / BOîTE à idées
