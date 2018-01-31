@@ -3,7 +3,7 @@ analytics: {}
 purpose:
   - type: email
     url: 'mailto:LRbouwfondsGent@gmail.com'
-    label: mail je ideeën !
+    label: Mail hier je ideeën !
 github: true
 description: 'Music, Truth, Life & Death'
 cta:
