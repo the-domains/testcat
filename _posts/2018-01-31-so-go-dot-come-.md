@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-01-31T10:55:03.941Z'
-datePublished: '2018-01-31T10:55:04.122Z'
+dateModified: '2018-01-31T10:59:12.533Z'
+datePublished: '2018-01-31T10:59:13.122Z'
 title: 'En die lift, wat wordt het nu ? … En attendant Godot à l’ascenseur?'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-01-31-so-go-dot-come-.md
 hasPage: true
-datePublishedOriginal: '2018-01-31T10:55:04.122Z'
 starred: false
+datePublishedOriginal: '2018-01-31T10:55:04.122Z'
 url: en-die-lift-wat-wordt-het-nu-en-attendant-godot-a-lasc/index.html
 _type: Blurb
 
