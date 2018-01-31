@@ -4,9 +4,9 @@ purpose:
   - type: external
     url: 'http://www.marnixdecat.be'
     label: Marnix' web
-  - type: external
-    url: 'http://www.pluto-ensemble.eu'
-    label: Pluto-ensemble
+  - type: email
+    url: 'mailto:LRbouwfondsGent@gmail.com'
+    label: mail je ideeën !
 github: true
 description: 'Music, Truth, Life & Death'
 cta:
@@ -28,12 +28,12 @@ collections:
       number: 10
 content: []
 navigation:
-  - id: fa502acf-8c87-460a-8e5e-00773aa67d73
-    name: Lift it up
+  - name: Lift it up
+    id: fa502acf-8c87-460a-8e5e-00773aa67d73
     type: content
-  - type: external
-    name: Cats fly ?
+  - name: Cats fly ?
     url: 'https://thegrid.ai/volemus/'
+    type: external
 layout_spectrum: 0.07795972222084235
 color:
   lightness: 0.7503241935127074
