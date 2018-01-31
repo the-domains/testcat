@@ -29,6 +29,9 @@ navigation:
   - name: Hoe staan de werken ?
     id: 29e5579b-983d-4561-957c-55646045d290
     type: content
+  - name: IDEEËNBOX
+    id: 7c844baa-a8f1-4a7e-96be-8e2a0317fe01
+    type: content
 collections:
   - index:
       path: /
