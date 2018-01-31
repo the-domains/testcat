@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-01-31T10:08:01.766Z'
-datePublished: '2018-01-31T10:08:28.212Z'
-title: So GO! dot come…   ;-)
+dateModified: '2018-01-31T10:19:03.005Z'
+datePublished: '2018-01-31T10:19:03.520Z'
+title: So GO! dot come… ;-)
 author: []
 publisher: {}
 via: {}
@@ -15,9 +15,9 @@ url: so-go-dot-come-/index.html
 _type: Blurb
 
 ---
-## En die lift, wat wordt het nu ? ...
+## En die lift, wat wordt het nu ? ... En attendant Godot à l'ascenseur? ;-)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfc2d053-c113-4998-b6a0-7f1a42844046.jpg)
 
-## En attendant Godot à l'ascenseur? ;-)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4539179-0928-40e2-bc80-a589d06c0acd.png)
+### or waiting for a world-lift ?
 
 # So GO! _dot come... ;-)_
