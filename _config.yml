@@ -28,9 +28,6 @@ navigation:
   - name: Lift it up
     id: fa502acf-8c87-460a-8e5e-00773aa67d73
     type: content
-  - name: Cats fly ?
-    url: 'https://thegrid.ai/volemus/'
-    type: external
 layout_spectrum: 0.07795972222084235
 color:
   lightness: 0.7503241935127074
