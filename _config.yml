@@ -86,7 +86,6 @@ content:
         van begeerten en aardse gerichtheden - kan men alleen begrensde, eindige
         vormen zien." (uit de Daodejing) Tijdens deze bezinningsbijeenkomst
         staan we stil bij de rol die het verlangen speelt in ons leven.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=5HnnSCa7jRQ&feature=applinks'
@@ -128,6 +127,31 @@ content:
       '@context': 'http://schema.org'
       isBasedOnUrl: 'https://www.youtube.com/watch?v=5HnnSCa7jRQ'
       title: De Kracht van het Verlangen
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f280d0-a65b-4b44-b275-a20754fc427a.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f280d0-a65b-4b44-b275-a20754fc427a.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
       datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
