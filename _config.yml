@@ -29,9 +29,6 @@ navigation:
   - name: Hoe staan de werken / Comment vont les travaux ?
     id: 29e5579b-983d-4561-957c-55646045d290
     type: content
-  - name: VARIA
-    id: fa502acf-8c87-460a-8e5e-00773aa67d73
-    type: content
 collections:
   - index:
       path: /
