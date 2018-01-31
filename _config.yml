@@ -1,9 +1,6 @@
 name: Testcat
 analytics: {}
 purpose:
-  - type: external
-    url: 'http://www.marnixdecat.be'
-    label: Marnix' web
   - type: email
     url: 'mailto:LRbouwfondsGent@gmail.com'
     label: mail je ideeën !
