@@ -1,20 +1,20 @@
-typography_spectrum: 0.7763302633813629
-content_rating:
-  adult: false
+layout_spectrum: 0.07552349938264136
+typography_spectrum: 0.3357385994564041
 color:
-  lightness: 0.7503241935127074
+  lightness: 0.8789691339872113
   brandColors:
     - '#111107'
     - '#78B2FC'
     - '#4062A1'
     - '#B6E3FF'
     - '#869740'
-  saturation: 0.3383477292509547
-  brandStrength: 0.5895483654589013
-  rhythmicContrast: 0.3501189789739391
+  saturation: 0.04549906674348334
+  brandStrength: 0.09396921737396186
+  rhythmicContrast: 0.9559188858924046
+content_rating:
+  adult: false
 github: true
 opengraph: {}
-layout_spectrum: 0.07795972222084235
 analytics: {}
 author: {}
 name: Testcat
@@ -63,7 +63,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
