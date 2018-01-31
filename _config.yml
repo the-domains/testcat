@@ -49,14 +49,14 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - id: 7c844baa-a8f1-4a7e-96be-8e2a0317fe01
-    name: Ideeën-BOX / BOîTE à idées
+  - name: Ideeën-BOX / BOîTE à idées
+    id: 7c844baa-a8f1-4a7e-96be-8e2a0317fe01
     type: content
-  - id: 29e5579b-983d-4561-957c-55646045d290
-    name: Hoe staan de werken / Comment vont les travaux ?
+  - name: Hoe staan de werken / Comment vont les travaux ?
+    id: 29e5579b-983d-4561-957c-55646045d290
     type: content
-  - id: fa502acf-8c87-460a-8e5e-00773aa67d73
-    name: Varia
+  - name: Varia
+    id: fa502acf-8c87-460a-8e5e-00773aa67d73
     type: content
 layout_spectrum: 0.07552349938264136
 color:
