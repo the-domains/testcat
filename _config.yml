@@ -1,16 +1,34 @@
-name: Testcat
-analytics: {}
-purpose:
-  - type: email
-    url: 'mailto:LRbouwfondsGent@gmail.com'
-    label: Mail hier je ideeën !
+typography_spectrum: 0.7763302633813629
+content_rating:
+  adult: false
+color:
+  lightness: 0.7503241935127074
+  brandColors:
+    - '#111107'
+    - '#78B2FC'
+    - '#4062A1'
+    - '#B6E3FF'
+    - '#869740'
+  saturation: 0.3383477292509547
+  brandStrength: 0.5895483654589013
+  rhythmicContrast: 0.3501189789739391
 github: true
-description: samen sterk in 1-heid
+opengraph: {}
+layout_spectrum: 0.07795972222084235
+analytics: {}
+author: {}
+name: Testcat
 cta:
   bucket: null
   version: null
   domain: null
-author: {}
+navigation:
+  - name: Lift it up
+    id: fa502acf-8c87-460a-8e5e-00773aa67d73
+    type: content
+  - name: Hoe staan de werken ?
+    id: 29e5579b-983d-4561-957c-55646045d290
+    type: content
 collections:
   - index:
       path: /
@@ -23,25 +41,10 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
-navigation:
-  - name: Lift it up
-    id: fa502acf-8c87-460a-8e5e-00773aa67d73
-    type: content
-layout_spectrum: 0.07795972222084235
-color:
-  lightness: 0.7503241935127074
-  brandColors:
-    - '#111107'
-    - '#78B2FC'
-    - '#4062A1'
-    - '#B6E3FF'
-    - '#869740'
-  saturation: 0.3383477292509547
-  brandStrength: 0.5895483654589013
-  rhythmicContrast: 0.3501189789739391
-content_rating:
-  adult: false
-typography_spectrum: 0.7763302633813629
-opengraph: {}
 title: Lectorium Rosicrucianum Bouwfonds GENT
+content: []
+description: samen sterk in 1-heid
+purpose:
+  - type: email
+    url: 'mailto:LRbouwfondsGent@gmail.com'
+    label: Mail hier je ideeën !
