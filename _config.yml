@@ -71,8 +71,8 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
-  een vertaal- & artistiek projekt van leerlingen van het Sint-Jan
-  Berchmanscollege Brx
+  een artistiek vertaalprojekt van leerlingen van het Sint-Jan Berchmanscollege
+  Brx
 purpose:
   - type: email
     url: 'mailto:kkennes@sint-jan-brussel.be'
