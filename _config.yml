@@ -44,7 +44,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Bouwfonds GENT
+title: MER+   Lost in Translation
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
