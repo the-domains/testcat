@@ -70,7 +70,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'LECTORIUM ROSICRUCIANUM    in Liefde en 1-heid,   en Amour et 1-ité'
+description: >-
+  een vertaal- & artistiek projekt van leerlingen van het Sint-Jan
+  Berchmanscollege Brx
 purpose:
   - type: email
     url: 'mailto:LRbouwfondsGent@gmail.com'
